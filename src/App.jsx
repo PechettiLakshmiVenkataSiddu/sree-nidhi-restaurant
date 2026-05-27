@@ -1387,6 +1387,9 @@ export default function App() {
               <a href={RESTAURANT.zomatoURL} target="_blank" rel="noreferrer" className="ext-link ext-link-zomato">Zomato</a>
               <a href={RESTAURANT.swiggyURL} target="_blank" rel="noreferrer" className="ext-link ext-link-swiggy">Swiggy</a>
               <a href={RESTAURANT.googleMaps} target="_blank" rel="noreferrer" className="ext-link ext-link-maps">Maps</a>
+              <a href="https://github.com/PechettiLakshmiVenkataSiddu/sree-nidhi-restaurant" target="_blank">
+              View on GitHub
+              </a>
             </div>
           </div>
         </div>

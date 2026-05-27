@@ -1,16 +1,32 @@
-# React + Vite
+# 🍽️ Sree Nidhi Multicuisine Restaurant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive restaurant website for **Sree Nidhi Multicuisine Restaurant**, Palakollu, Andhra Pradesh.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://sree-nidhi-multicuisine-restaurant.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔍 Search across 135+ dishes
+- 🥗 Filter by Veg / Non-Veg
+- 🛒 Cart functionality
+- 📞 Call Now, WhatsApp & Get Directions buttons
+- 📱 Fully responsive design
+- 🕐 Live hours & booking info
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Claude AI** – UI design & content generation
+- **Cursor AI** – Code editor with AI assistance
+- **Netlify** – Deployment & hosting
+
+## 📍 Restaurant Info
+
+- **Location:** Palakollu, Andhra Pradesh, India
+- **Hours:** 11:30 AM – 11:00 PM
+- **Price:** ₹200 – ₹400 per person
+- **Services:** Delivery · Takeaway · Booking · Credit Cards
+
+---
+Made with ❤️ using Claude AI + Cursor AI + Netlify
